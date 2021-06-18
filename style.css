@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(56, 53, 52, 0.918);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+}
+
+button{
+   margin: 3px 3px;
+   text-align: center;
+   border-radius: 4px;
+}
+
+label{
+    color:white;
+}
+
+img { 
+    width: 10%; 
+}
